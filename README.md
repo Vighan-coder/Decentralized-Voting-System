@@ -155,3 +155,9 @@ For support, questions, or feature requests, please open an issue on our GitHub 
 - Hardhat development environment
 - Core Blockchain for providing testnet infrastructure
 - The blockchain development community for continuous innovation
+
+
+#contract details: 0x9e281924B372aBf9a3d279FCf589A1bBFF455e0B
+
+![image](https://github.com/user-attachments/assets/34dc5cc8-1ffd-4bc1-bb64-9ec0f1906dbd)
+
