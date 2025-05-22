@@ -62,7 +62,7 @@ contract Project is Ownable, ReentrancyGuard {
         _;
     }
     
-    constructor() {
+    constructor() Ownable(msg.sender) {
         // Register the contract owner as first voter
         registeredVoters[msg.sender] = true;
         votersCount = 1;
